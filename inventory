@@ -1,7 +1,7 @@
 [webservers]
-149.28.74.89
 149.28.90.200
-63.210.148.251
+63.210.148.251 
 
 [webservers:vars]
 ansible_python_interpreter=/usr/bin/python3
+ansible_user=root
